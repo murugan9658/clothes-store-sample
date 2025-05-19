@@ -23,7 +23,7 @@ const Home = () => {
 
         {/* Right Side: Image */}
          
-        <div className=" ">
+        <div >
         <AutoSlide/>
         </div>
 
