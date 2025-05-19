@@ -1,5 +1,4 @@
-
-import AutoSlide from "./Autoslide";
+import AutoSlide from "./AutoSlide"
 
 
 const Home = () => {
@@ -24,7 +23,7 @@ const Home = () => {
         {/* Right Side: Image */}
          
         <div >
-        <AutoSlide/>
+        <AutoSlide />
         </div>
 
       </div>
